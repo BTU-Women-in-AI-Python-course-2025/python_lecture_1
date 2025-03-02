@@ -2,8 +2,7 @@
 
 ## Overview
 - Python - General Overview
-
-## Setting Up the Work Environment
+- Setting Up the Work Environment
 
 ## Basics
 - Variables - https://www.w3schools.com/python/python_variables.asp
