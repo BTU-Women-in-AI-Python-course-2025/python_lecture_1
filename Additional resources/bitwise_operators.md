@@ -153,7 +153,7 @@ print(a >> 1)  # Output: 2 (Binary: 10)
 | Operator | Name | Effect |
 |----------|------|--------|
 | `&` | **Bitwise AND** | 1 if both bits are 1 |
-| `|` | **Bitwise OR** | 1 if at least one bit is 1 |
+| `\|` | **Bitwise OR** | 1 if at least one bit is 1 |
 | `^` | **Bitwise XOR** | 1 if only one bit is 1 |
 | `~` | **Bitwise NOT** | Inverts all bits |
 | `<<` | **Left Shift** | Multiplies by `2^n` |
