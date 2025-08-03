@@ -16,7 +16,7 @@ Each bitwise operation is performed at the **bit level**.
 | Operator | Name | Description | Example (`a = 5`, `b = 3`) |
 |----------|------|-------------|----------------------|
 | `&` | **Bitwise AND** | Returns 1 if both bits are 1 | `5 & 3 → 1` (`101 & 011 = 001`) |
-| `|` | **Bitwise OR** | Returns 1 if at least one bit is 1 | `5 | 3 → 7` (`101 | 011 = 111`) |
+| `\|` | **Bitwise OR** | Returns 1 if at least one bit is 1 | `5 \| 3 → 7` (`101 \| 011 = 111`) |
 | `^` | **Bitwise XOR** | Returns 1 if only one of the bits is 1 | `5 ^ 3 → 6` (`101 ^ 011 = 110`) |
 | `~` | **Bitwise NOT** | Inverts all bits (one’s complement) | `~5 → -6` (`~101 = -(101+1) = -110`) |
 | `<<` | **Left Shift** | Shifts bits to the left (multiplies by 2) | `5 << 1 → 10` (`101 << 1 = 1010`) |
